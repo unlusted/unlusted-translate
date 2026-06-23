@@ -6,13 +6,13 @@ Join our translators to help Unlusted reach creators and fans worldwide!
 
 | locale | language | contributor | Web App |
 |--------|----------|-------------|---------|
-| 🇬🇧 en | English | | ![en](https://translate.unlusted.com/widget/unlusted-platform/-/en/svg-badge.svg) |
+| 🇬🇧 en | English | [unlusted](https://github.com/unlusted) | ![en](https://translate.unlusted.com/widget/unlusted-platform/-/en/svg-badge.svg) |
 | 🇸🇦 ar | العربية | | ![ar](https://translate.unlusted.com/widget/unlusted-platform/-/ar/svg-badge.svg) |
 | 🇧🇾 be | Беларуская | | ![be](https://translate.unlusted.com/widget/unlusted-platform/-/be/svg-badge.svg) |
 | 🇧🇩 bn | বাংলা | | ![bn](https://translate.unlusted.com/widget/unlusted-platform/-/bn/svg-badge.svg) |
 | 🇩🇪 de | Deutsch | | ![de](https://translate.unlusted.com/widget/unlusted-platform/-/de/svg-badge.svg) |
-| 🇪🇸 es | Español | | ![es](https://translate.unlusted.com/widget/unlusted-platform/-/es/svg-badge.svg) |
-| 🇫🇷 fr | Français | | ![fr](https://translate.unlusted.com/widget/unlusted-platform/-/fr/svg-badge.svg) |
+| 🇪🇸 es | Español | [unlusted](https://github.com/unlusted) | ![es](https://translate.unlusted.com/widget/unlusted-platform/-/es/svg-badge.svg) |
+| 🇫🇷 fr | Français | [unlusted](https://github.com/unlusted) | ![fr](https://translate.unlusted.com/widget/unlusted-platform/-/fr/svg-badge.svg) |
 | 🇮🇳 hi | हिन्दी | | ![hi](https://translate.unlusted.com/widget/unlusted-platform/-/hi/svg-badge.svg) |
 | 🇭🇺 hu | Magyar | | ![hu](https://translate.unlusted.com/widget/unlusted-platform/-/hu/svg-badge.svg) |
 | 🇮🇩 id | Bahasa Indonesia | | ![id](https://translate.unlusted.com/widget/unlusted-platform/-/id/svg-badge.svg) |
@@ -22,9 +22,9 @@ Join our translators to help Unlusted reach creators and fans worldwide!
 | 🇳🇱 nl | Nederlands | | ![nl](https://translate.unlusted.com/widget/unlusted-platform/-/nl/svg-badge.svg) |
 | 🇵🇰 pa | پنجابی | | ![pa](https://translate.unlusted.com/widget/unlusted-platform/-/pa/svg-badge.svg) |
 | 🇵🇱 pl | Polski | | ![pl](https://translate.unlusted.com/widget/unlusted-platform/-/pl/svg-badge.svg) |
-| 🇧🇷 pt | Português | | ![pt](https://translate.unlusted.com/widget/unlusted-platform/-/pt/svg-badge.svg) |
-| 🇷🇴 ro | Română | | ![ro](https://translate.unlusted.com/widget/unlusted-platform/-/ro/svg-badge.svg) |
-| 🇷🇺 ru | Русский | | ![ru](https://translate.unlusted.com/widget/unlusted-platform/-/ru/svg-badge.svg) |
+| 🇧🇷 pt | Português | [unlusted](https://github.com/unlusted) | ![pt](https://translate.unlusted.com/widget/unlusted-platform/-/pt/svg-badge.svg) |
+| 🇷🇴 ro | Română | [unlusted](https://github.com/unlusted) | ![ro](https://translate.unlusted.com/widget/unlusted-platform/-/ro/svg-badge.svg) |
+| 🇷🇺 ru | Русский | [unlusted](https://github.com/unlusted) | ![ru](https://translate.unlusted.com/widget/unlusted-platform/-/ru/svg-badge.svg) |
 | 🇦🇱 sq | Shqip | | ![sq](https://translate.unlusted.com/widget/unlusted-platform/-/sq/svg-badge.svg) |
 | 🇹🇭 th | ภาษาไทย | | ![th](https://translate.unlusted.com/widget/unlusted-platform/-/th/svg-badge.svg) |
 | 🇵🇭 tl | Tagalog | | ![tl](https://translate.unlusted.com/widget/unlusted-platform/-/tl/svg-badge.svg) |
