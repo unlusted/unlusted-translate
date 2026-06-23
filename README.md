@@ -34,7 +34,7 @@ Join our translators to help Unlusted reach creators and fans worldwide!
 | 🇨🇳 zh-Hans | 简体中文 | | ![zh_Hans](https://translate.unlusted.com/widget/unlusted-platform/-/zh_Hans/svg-badge.svg) |
 | 🇹🇼 zh-Hant | 繁體中文 | | ![zh_Hant](https://translate.unlusted.com/widget/unlusted-platform/-/zh_Hant/svg-badge.svg) |
 
-Languages in progress: Arabic, German, Italian, Japanese, Korean, Turkish, Ukrainian and others. We will be adding more languages as some of the already added are completed — please suggest new languages, review the [translation guide](./TRANSLATING.md) and get in touch with us!
+Languages in progress: Arabic, German, Italian, Japanese, Korean, Turkish, Ukrainian and others. We will be adding more languages as some of the already added are completed. Please suggest new languages, review the [translation guide](./TRANSLATING.md) and get in touch with us!
 
 ## Legal
 
