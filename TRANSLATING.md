@@ -13,7 +13,7 @@ New translations are reviewed before going live. Once approved, they ship with t
 ## Translation guidelines
 
 ### Tone
-Unlusted is a premium adult platform. Translations should feel natural, confident, and professional in the target language. Avoid overly literal translations — prioritise clarity and natural phrasing over word-for-word accuracy.
+Unlusted is a premium adult platform. Translations should feel natural, confident, and professional in the target language. Avoid overly literal translations, prioritise clarity and natural phrasing over word-for-word accuracy.
 
 ### Placeholders
 Some strings contain placeholders like `{name}`, `{amount}`, or `{date}`. These must be kept exactly as-is in your translation — they are replaced with real values at runtime.
